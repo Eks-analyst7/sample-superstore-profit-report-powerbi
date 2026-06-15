@@ -8,7 +8,7 @@ The dashboard provides insights into sales, profit, customer segments, regions, 
 
 ## Dashboard Preview
 
-<img width="100%" alt="Dashboard Screenshot" src="Screenshots/profit_report_dashboard.png">
+<img width="100%" alt="[Dashboard Screenshot" src="Screenshots/profit_report_dashboard.pn](https://github.com/Eks-analyst7/sample-superstore-profit-report-powerbi/blob/main/profit_report_dashboard.png)">
 
 ## Objectives
 

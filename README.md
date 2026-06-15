@@ -6,9 +6,6 @@ This project is an interactive Power BI dashboard developed using the Sample Sup
 
 The dashboard provides insights into sales, profit, customer segments, regions, product categories, and sub-categories to help understand overall business performance.
 
-## Dashboard Preview
-
-<img width="100%" (https://github.com/Eks-analyst7/sample-superstore-profit-report-powerbi/blob/main/profit_report_dashboard.png)">
 
 ## Objectives
 
